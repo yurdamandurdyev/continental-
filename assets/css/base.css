@@ -1,0 +1,40 @@
+:root {
+    --red: #C41E3A;
+    --red-dark: #A01830;
+    --red-light: #E8344F;
+    --black: #1A1A1A;
+    --dark: #2D2D2D;
+    --gray: #6B7280;
+    --gray-light: #9CA3AF;
+    --gray-lighter: #F3F4F6;
+    --white: #FFFFFF;
+    --bg: #FAFAFA;
+    --shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -2px rgba(0,0,0,0.1);
+    --shadow-lg: 0 20px 40px -8px rgba(0,0,0,0.15);
+    --shadow-xl: 0 25px 50px -12px rgba(0,0,0,0.25);
+    --radius: 12px;
+    --radius-lg: 20px;
+    --transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; font-size: 16px; }
+body {
+    font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: var(--black);
+    background: var(--white);
+    line-height: 1.6;
+    overflow-x: hidden;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+.stat-number, .process-step-num, .service-number, .hero-stat-num { font-family: 'Source Serif Pro', serif; }
+
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--gray-lighter); }
+::-webkit-scrollbar-thumb { background: var(--red); border-radius: 4px; }
+
