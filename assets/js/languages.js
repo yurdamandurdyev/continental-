@@ -172,6 +172,176 @@
         'Отлично': '好的'
     };
 
+    const english = {
+        'Continental Bridge — Прямые поставки из Китая': 'Continental Bridge — Direct Supply from China',
+        'О Компании': 'About Us',
+        'О компании': 'About Us',
+        'Услуги': 'Services',
+        'Ценность': 'Benefits',
+        'Проекты': 'Projects',
+        'FAQ': 'FAQ',
+        'Контакты': 'Contacts',
+        'Заявка': 'Request a Quote',
+        'Меню': 'Menu',
+        'Закрыть': 'Close',
+        'Язык сайта': 'Website language',
+        'Прямые поставки товаров из Китая для бизнеса': 'Direct Supply from China for Business',
+        'Тяжёлая и специальная техника, коммерческие машины, запасные части, электроника, промышленное и IT-оборудование. CB выступает официальным экспортёром: контракт, контроль качества, таможня и документы — в одном управляемом процессе.': 'Heavy and specialized machinery, commercial vehicles, spare parts, electronics, industrial and IT equipment. CB acts as the official exporter, managing contracts, quality control, customs clearance and documentation in one controlled process.',
+        'Обсудить поставку': 'Discuss Your Supply',
+        'Лет в международной торговле': 'Years in international trade',
+        'Проверенных заводов': 'Verified factories',
+        'Стран поставок': 'Countries supplied',
+        'Без задержек на таможне': 'Without customs delays',
+        'Shanghai skyline': 'Shanghai skyline',
+        'Continental Bridge Office': 'Continental Bridge office',
+        'Shanghai Free Trade Zone': 'Shanghai Free Trade Zone',
+        'Глобальный экспортёр тяжёлой и специальной техники': 'Global Exporter of Heavy and Specialized Machinery',
+        'Continental Bridge — глобальный экспортёр тяжёлой и специальной техники, коммерческих машин, запасных частей, электроники, электроинструментов, промышленного и IT-оборудования и многих других товаров для корпоративных клиентов.': 'Continental Bridge is a global exporter of heavy and specialized machinery, commercial vehicles, spare parts, electronics, power tools, industrial and IT equipment, and many other products for corporate clients.',
+        'Мы помогаем компаниям находить оборудование, товар и поставлять под заказ, проверять поставщиков и документацию, сопровождать заключение контрактов и готовить следующие этапы в рамках управляемого B2B-процесса.': 'We help companies source equipment and products to order, verify suppliers and documents, support contract execution, and coordinate every following stage in a managed B2B process.',
+        'Официальный экспортёр вместо клиента': 'Official exporter on the client’s behalf',
+        'Заключение контрактов с заводами': 'Contracts with factories',
+        'Оформление экспортной документации': 'Export documentation',
+        'Полное сопровождение сделки': 'End-to-end transaction support',
+        'Полный цикл экспортных операций': 'Full-Cycle Export Operations',
+        'Комплексное сопровождение сделки от поиска поставщика до доставки на ваш склад': 'Comprehensive support from supplier sourcing to delivery at your warehouse',
+        'Официальный экспортёр': 'Official Exporter',
+        'Вам не нужно регистрировать юрлицо в КНР. Получаете товар напрямую из Китая через CB': 'No Chinese legal entity is required. Receive goods directly from China through CB',
+        'Подробнее': 'Learn More',
+        'Свернуть': 'Show Less',
+        'CB выступает официальным экспортёром вместо клиента. Берём на себя заключение контракта с заводом и оформление всей экспортной документации.': 'CB acts as the official exporter on the client’s behalf. We handle the factory contract and all export documentation.',
+        'Сорсинг и выбор поставщиков': 'Sourcing and Supplier Selection',
+        'Вы экономите месяцы самостоятельного поиска. Получаете проверенный завод с прозрачными условиями': 'Save months of independent research and work with a verified factory on transparent terms',
+        'Поиск и проверка заводов под запрос клиента: анализ рынка, подбор 3–5 кандидатов, аудит завода, переговоры по цене и условиям.': 'We source and verify factories for your request through market analysis, selection of 3–5 candidates, factory audits, and price and terms negotiations.',
+        'Контроль качества': 'Quality Control',
+        'Вы не получаете брак. Экономия на возвратах и претензиях — обычно 12–15% от стоимости партии': 'Avoid defective goods and typically save 12–15% of the shipment value on returns and claims',
+        'Инспекция товара на всех этапах: до производства, в процессе (inline), перед отгрузкой (pre-shipment). Независимый инспектор SGS/BV.': 'Goods are inspected before production, during production and before shipment, with independent SGS/BV inspectors available.',
+        'Переводы и коммуникация': 'Translation and Communication',
+        'Ничего не теряется в переводе. Вы понимаете что происходит без знания китайского': 'Nothing gets lost in translation. You stay informed without speaking Chinese',
+        'Языковое и культурное посредничество: переговоры с заводами, перевод контрактов и спецификаций, ежедневная коммуникация с поставщиком.': 'Language and cultural support for factory negotiations, contract and specification translation, and daily supplier communication.',
+        'Таможня и документация': 'Customs and Documentation',
+        'Грузы проходят таможню без задержек. Правильная документация = отсутствие штрафов и демерреджа': 'Proper documents keep shipments moving through customs without penalties or demurrage',
+        'Полный пакет экспортных документов: Commercial Invoice, Packing List, B/L, таможенная декларация КНР, сертификат происхождения, HS-коды.': 'A complete export document package: Commercial Invoice, Packing List, B/L, Chinese customs declaration, certificate of origin and HS codes.',
+        'Финансовые услуги': 'Financial Services',
+        'Гибкие условия оплаты и отсрочка платежа': 'Flexible payment terms and deferred payment',
+        'Гибкие условия оплаты, возможность предоставления отсрочки платежаE. Работаем с аккредитивами и T/T.': 'Flexible payment terms with deferred payment options. We work with letters of credit and T/T.',
+        'OEM и частные торговые марки': 'OEM and Private Label',
+        'Вы получаете возможность развивать собственный бренд с преимуществами в цене и качестве': 'Develop your own brand with competitive pricing and consistent quality',
+        'Создаём продукцию по индивидуальным заказам, разрабатываем линейки частных торговых марок, адаптируем упаковку и брендинг.': 'We create custom products, develop private-label ranges, and adapt packaging and branding.',
+        'Процесс работы': 'Our Process',
+        'Как мы работаем': 'How We Work',
+        'Прозрачный и управляемый процесс на каждом этапе': 'A transparent, controlled process at every stage',
+        'Запрос': 'Request',
+        'Вы присылаете техническое задание в произвольной форме': 'Send us your requirements in any convenient format',
+        'Звонок': 'Consultation',
+        'Обсуждаем задачу, уточняем требования, бюджет и сроки поставки': 'We discuss the project, requirements, budget and delivery schedule',
+        'Сорсинг': 'Sourcing',
+        'Подбираем и проверяем 3–5 заводов-кандидатов': 'We select and verify 3–5 candidate factories',
+        'Контракт': 'Contract',
+        'Заключаем договор и согласуем условия поставки': 'We sign the contract and agree on supply terms',
+        'Контроль': 'Inspection',
+        'Инспектируем производство и качество товара': 'We inspect production and product quality',
+        'Доставка': 'Delivery',
+        'Оформляем документы и доставляем груз': 'We prepare the documents and deliver the shipment',
+        'Ценность для ВАС': 'VALUE FOR YOU',
+        'Почему выбирают Continental Bridge': 'Why Choose Continental Bridge',
+        'Мы берём на себя': 'We take care of',
+        'все операционные, юридические и логистические задачи': 'all operational, legal and logistics tasks',
+        ', связанные с закупками в КНР, позволяя вам сосредоточиться на развитии бизнеса': ' related to sourcing in China, so you can focus on growing your business',
+        'Экономия времени': 'Save Time',
+        'Месяцы самостоятельного поиска поставщиков сокращаются до недель.': 'Reduce months of independent supplier research to just weeks.',
+        'Снижение рисков': 'Reduce Risk',
+        'Контроль качества на всех этапах и независимая инспекция SGS/BV.': 'Quality control at every stage and independent SGS/BV inspections.',
+        'Юридическая защита': 'Legal Protection',
+        'Правильное оформление всех документов исключает задержки на таможне.': 'Correct documentation prevents customs delays.',
+        'Финансовая гибкость': 'Financial Flexibility',
+        'Отсрочка платежа и работа с аккредитивами.': 'Deferred payment options and letters of credit.',
+        'Партнёры': 'Partners',
+        'Нам доверяют лидеры отрасли': 'Trusted by Industry Leaders',
+        'Мы работаем с крупнейшими международными компаниями и организациями': 'We work with leading international companies and organizations',
+        'Успешные проекты': 'Success Stories',
+        'Реализованные поставки': 'Completed Deliveries',
+        'Примеры проектов, которые мы успешно завершили для наших клиентов': 'Selected projects successfully completed for our clients',
+        'Тяжёлая техника': 'Heavy Machinery',
+        'Поставка экскаваторов SANY': 'SANY Excavator Supply',
+        'Партия из 12 единиц тяжёлой техники для строительной компании в СНГ.': 'A shipment of 12 heavy machinery units for a construction company in the CIS.',
+        'Электроника': 'Electronics',
+        'IT-оборудование для дата-центра': 'Data Center IT Equipment',
+        'Комплексная поставка серверного оборудования и сетевой инфраструктуры.': 'A complete supply of server equipment and network infrastructure.',
+        'Промышленность': 'Industrial Equipment',
+        'Линия производства упаковки': 'Packaging Production Line',
+        'OEM-проект: разработка и поставка производственной линии под частный бренд.': 'An OEM project to develop and supply a private-label production line.',
+        'Логистика': 'Logistics',
+        'Мультимодальная доставка': 'Multimodal Delivery',
+        'Организация доставки крупногабаритного оборудования морем и ж/д транспортом.': 'Delivery of oversized equipment by sea and rail.',
+        'Запасные части': 'Spare Parts',
+        'Регулярные поставки запчастей': 'Regular Spare Parts Supply',
+        'Ежемесячные поставки оригинальных запасных частей для автопарка.': 'Monthly deliveries of genuine spare parts for a vehicle fleet.',
+        'Электроинструменты': 'Power Tools',
+        'Частная торговая марка': 'Private Label',
+        'Разработка и запуск линейки электроинструментов под брендом клиента.': 'Development and launch of a power-tool range under the client’s brand.',
+        'Часто задаваемые вопросы': 'Frequently Asked Questions',
+        'Ответы на самые популярные вопросы о работе с Continental Bridge': 'Answers to common questions about working with Continental Bridge',
+        'Задать вопрос': 'Ask a Question',
+        'Нужно ли мне регистрировать компанию в Китае?': 'Do I need to register a company in China?',
+        'Нет. Continental Bridge выступает официальным экспортёром вместо вашей компании. Вы получаете товар напрямую из Китая, не имея юридического лица в КНР. Мы берём на себя все формальности.': 'No. Continental Bridge acts as the official exporter on behalf of your company. You receive goods directly from China without establishing a Chinese legal entity, while we handle all formalities.',
+        'Как происходит контроль качества?': 'How does quality control work?',
+        'Мы проводим инспекцию на трёх этапах: до производства (проверка материалов), в процессе (inline-инспекция) и перед отгрузкой (pre-shipment). При необходимости привлекаем независимых инспекторов SGS или Bureau Veritas.': 'We inspect at three stages: before production, during production and before shipment. Independent SGS or Bureau Veritas inspectors can be engaged when required.',
+        'Какие условия оплаты вы предлагаете?': 'What payment terms do you offer?',
+        'Мы предлагаем гибкие условия: T/T (телеграфный перевод), аккредитивы (L/C), а также отсрочку платежа для надёжных партнёров. Условия обсуждаются индивидуально.': 'We offer flexible terms including T/T, letters of credit and deferred payment for established partners. Terms are agreed individually.',
+        'Сколько времени занимает поиск поставщика?': 'How long does supplier sourcing take?',
+        'Анализ рынка и подбор 3–5 кандидатов занимает от 3 до 10 рабочих дней в зависимости от сложности запроса. Полный цикл от запроса до подписания контракта — обычно 2–4 недели.': 'Market analysis and selection of 3–5 candidates takes 3–10 business days depending on the request. The full cycle from inquiry to contract normally takes 2–4 weeks.',
+        'Работаете ли вы с OEM и частными марками?': 'Do you work with OEM and private-label products?',
+        'Да. Мы помогаем создавать продукцию по индивидуальным заказам, разрабатывать линейки частных торговых марок, адаптировать упаковку и брендирование. Управляем всем процессом — от концепции до готовой продукции.': 'Yes. We help create custom products, develop private-label ranges, and adapt packaging and branding. We manage the entire process from concept to finished product.',
+        'Какие документы вы оформляете?': 'Which documents do you prepare?',
+        'Полный пакет: Commercial Invoice, Packing List, Bill of Lading, таможенная декларация КНР, сертификат происхождения (COO / Form A), HS-коды, экспортные лицензии, сертификаты CE / ISO по требованиям страны назначения.': 'A complete package: Commercial Invoice, Packing List, Bill of Lading, Chinese customs declaration, certificate of origin (COO / Form A), HS codes, export licenses, and CE / ISO certificates required by the destination country.',
+        'Свяжитесь с нами': 'Contact Us',
+        'Мы всегда на связи и готовы обсудить ваш проект': 'We are ready to discuss your project',
+        'Email': 'Email',
+        'Дополнительный email': 'Additional email',
+        'Информация уточняется': 'Details to be confirmed',
+        'Телефон / WeChat': 'Phone / WeChat',
+        'Адрес': 'Address',
+        'Room 607, Building 1, No. 55, Aona Road, Shanghai Free Trade Zone, China': 'Room 607, Building 1, No. 55, Aona Road, Shanghai Free Trade Zone, China',
+        'Дополнительный адрес': 'Additional address',
+        'Часы работы': 'Business Hours',
+        'Пн – Пт: 9:00 – 18:00 (CST, UTC+8)': 'Mon–Fri: 9:00–18:00 (CST, UTC+8)',
+        'Оставить заявку': 'Request a Quote',
+        'Заполните форму и мы свяжемся с вами в течение 24 часов': 'Complete the form and we will contact you within 24 hours',
+        'Имя *': 'Name *',
+        'Ваше имя': 'Your name',
+        'Компания': 'Company',
+        'Название компании': 'Company name',
+        'Email *': 'Email *',
+        'Телефон': 'Phone',
+        '+7 (___) ___-__-__': '+__ ___ ___ ____',
+        'Тип запроса': 'Request Type',
+        'Выберите тип запроса': 'Select a request type',
+        'Поиск поставщика': 'Supplier sourcing',
+        'Экспортная документация': 'Export documentation',
+        'OEM / Частная марка': 'OEM / Private label',
+        'Другое': 'Other',
+        'Сообщение *': 'Message *',
+        'Опишите ваш запрос: какой товар, объём, сроки...': 'Describe the product, quantity and required delivery time…',
+        'Отправить заявку': 'Submit Request',
+        'Банковские реквизиты': 'Bank Details',
+        'USD Account': 'USD Account',
+        'Получатель / Account Name': 'Account Name',
+        'Банк / Bank Name': 'Bank Name',
+        'Номер счёта / Account Number': 'Account Number',
+        'Адрес банка / Bank Add': 'Bank Address',
+        'Код банка / Bank Code': 'Bank Code',
+        'Глобальный экспортёр тяжёлой и специальной техники, коммерческих машин и промышленного оборудования из Китая.': 'A global exporter of heavy and specialized machinery, commercial vehicles and industrial equipment from China.',
+        'Навигация': 'Navigation',
+        'Документация': 'Documentation',
+        'Shanghai, China': 'Shanghai, China',
+        '© 2026 Continental Bridge. Все права защищены.': '© 2026 Continental Bridge. All rights reserved.',
+        'Shanghai Free Trade Zone, China': 'Shanghai Free Trade Zone, China',
+        'Заявка отправлена!': 'Request Submitted!',
+        'Наш менеджер свяжется с вами в течение 24 часов.': 'Our manager will contact you within 24 hours.',
+        'Отлично': 'Done'
+    };
+
+    const translations = { zh: chinese, en: english };
     const normalize = text => text.replace(/\s+/g, ' ').trim();
     const entries = [];
     const walker = document.createTreeWalker(document.documentElement, NodeFilter.SHOW_TEXT);
@@ -197,17 +367,20 @@
         });
     }
     function setLanguage(language, remember = true) {
-        if (!['ru', 'zh'].includes(language)) return;
-        const isChinese = language === 'zh';
-        document.documentElement.lang = isChinese ? 'zh-CN' : 'ru';
+        if (!['ru', 'zh', 'en'].includes(language)) return;
+        const dictionary = translations[language];
+        document.documentElement.lang = language === 'zh' ? 'zh-CN' : language;
         entries.forEach(({ node, original, key }) => {
-            node.data = isChinese ? original.replace(/\S[\s\S]*\S|\S/, chinese[key]) : original;
+            node.data = dictionary ? original.replace(/\S[\s\S]*\S|\S/, dictionary[key]) : original;
         });
-        attributes.forEach(({ element, name, original }) => element.setAttribute(name, isChinese ? chinese[original] : original));
+        attributes.forEach(({ element, name, original }) => element.setAttribute(name, dictionary ? dictionary[original] : original));
         document.querySelectorAll('[data-language]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.language === language)));
         document.querySelectorAll('.service-toggle').forEach(button => {
             const expanded = button.closest('.service-card').classList.contains('expanded');
-            button.querySelector('span').textContent = isChinese ? (expanded ? '收起' : '了解详情') : (expanded ? 'Свернуть' : 'Подробнее');
+            const labels = language === 'zh'
+                ? ['了解详情', '收起']
+                : language === 'en' ? ['Learn More', 'Show Less'] : ['Подробнее', 'Свернуть'];
+            button.querySelector('span').textContent = labels[expanded ? 1 : 0];
         });
         if (remember) {
             try { localStorage.setItem('cb-language', language); } catch { /* Storage can be disabled. */ }
@@ -219,5 +392,5 @@
     document.fonts.ready.then(resizeAnswers);
     let saved = 'ru';
     try { saved = localStorage.getItem('cb-language') || 'ru'; } catch { /* Default to Russian. */ }
-    setLanguage(saved === 'zh' ? 'zh' : 'ru', false);
+    setLanguage(['ru', 'zh', 'en'].includes(saved) ? saved : 'ru', false);
 })();

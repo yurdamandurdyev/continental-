@@ -28,9 +28,9 @@ body {
     font-weight: 400;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display', serif;
-    font-weight: 700;
-    letter-spacing: -0.02em;
+    font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 800;
+    letter-spacing: -0.035em;
 }
 .stat-number, .process-step-num, .service-number, .hero-stat-num { font-family: 'Source Serif Pro', serif; }
 
